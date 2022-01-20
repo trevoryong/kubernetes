@@ -1,4 +1,4 @@
-#!/usr/bin/env bashh
+#!/usr/bin/env bash
 
 # Copyright 2014 The Kubernetes Authors.
 #
